@@ -21,7 +21,7 @@ As of now (August 2) this system is able to:
 <li>Complaints sorting, on the display table</li>
 </ul>
 
-Features that are planned to be implemented soon/are being worked on:
+Features that are planned to be implemented soon/are being worked on (in no particular order):
 <ul>
 <li>User levels</li>
 <li>Reply/feedback on complaints</li>
